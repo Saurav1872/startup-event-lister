@@ -1,0 +1,64 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Tech Startup Summit 2024",
+            "description": "Join us for the largest tech startup conference of the year, featuring keynote speakers from leading tech companies, networking opportunities, and pitch competitions.",
+            "start_date": "2024-06-15",
+            "end_date": "2024-06-17",
+            "location": "San Francisco, CA",
+            "category": "Conference",
+            "cover_image": "events/tech-summit.jpg",
+            "status": "published",
+            "featured": true
+        },
+        {
+            "id": 2,
+            "title": "AI & Machine Learning Workshop",
+            "description": "Hands-on workshop covering the latest developments in AI and machine learning, perfect for startup founders looking to integrate AI into their products.",
+            "start_date": "2024-05-20",
+            "end_date": "2024-05-21",
+            "location": "New York, NY",
+            "category": "Workshop",
+            "cover_image": "events/ai-workshop.jpg",
+            "status": "published",
+            "featured": true
+        },
+        {
+            "id": 3,
+            "title": "Startup Funding Masterclass",
+            "description": "Learn the ins and outs of startup funding from successful founders and venture capitalists. Topics include pitch deck creation, valuation, and term sheets.",
+            "start_date": "2024-07-10",
+            "end_date": "2024-07-10",
+            "location": "Boston, MA",
+            "category": "Masterclass",
+            "cover_image": "events/funding-masterclass.jpg",
+            "status": "published",
+            "featured": true
+        },
+        {
+            "id": 4,
+            "title": "Women in Tech Networking",
+            "description": "An evening of networking and inspiration for women in the tech industry. Featuring panel discussions and mentorship opportunities.",
+            "start_date": "2024-06-05",
+            "end_date": "2024-06-05",
+            "location": "Seattle, WA",
+            "category": "Networking",
+            "cover_image": "events/women-in-tech.jpg",
+            "status": "published",
+            "featured": false
+        },
+        {
+            "id": 5,
+            "title": "Blockchain & Web3 Conference",
+            "description": "Explore the future of blockchain technology and Web3 applications. Connect with industry leaders and discover new opportunities.",
+            "start_date": "2024-08-15",
+            "end_date": "2024-08-16",
+            "location": "Austin, TX",
+            "category": "Conference",
+            "cover_image": "events/blockchain-conference.jpg",
+            "status": "published",
+            "featured": false
+        }
+    ]
+} 
